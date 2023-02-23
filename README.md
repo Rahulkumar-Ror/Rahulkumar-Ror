@@ -1,8 +1,4 @@
-<h1 align="center">Rahul Kumar, Ruby on Rails Developer</h1>
-<h1 align="center">Experienced Ruby on Rails Developer | Passionate About Creating User-Friendly Applications</h1>
-<h1 align="center">Full-Stack Web Developer | Ruby on Rails | JavaScript | HTML/CSS</h1>
-<h1 align="center">Seeking Opportunities to Utilize My Ruby on Rails Development Skills and Passion for Innovation</h1>
-
+<h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
